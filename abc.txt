@@ -1,2 +1,5 @@
 git example
 pull and push to github
+created a github a repository in git hub
+created a branch 
+trying to merger to the main branch 
