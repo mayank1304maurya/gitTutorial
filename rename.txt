@@ -1,2 +1,2 @@
 learing to push the code to git hub
-
+git commands - init ,status, log 
